@@ -1,16 +1,7 @@
-## Hi there 👋
+# Hi there 👋, I'm Himansu Mallick
+A passionate Computer Engineering student from India 🚀
 
-<!--
-**himansumallik/himansumallik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MERN Stack, AI/ML**
+- 💬 Ask me about **C, C++, Java, React, Flutter**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/himansumallik) | [Portfolio](https://yourwebsite.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...A fullstack Project
-- 🌱 I’m currently learning ... MERN stack, ML Algorithms
-- 👯 I’m looking to collaborate on ... Any project
-- 🤔 I’m looking for help with ... Contributing to the open source
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
